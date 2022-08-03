@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="temperatureLabel">Temperature</string>
+    <string name="temperatureMaxLabel">Temperature Max</string>
+    <string name="temperatureMinLabel">Temperature Min</string>
+    <string name="descriptionLabel">Description</string>
+    <string name="humidityLabel">Humidity</string>
+    <string name="windSpeedLabel">Wind Speed</string>
+    <string name="windDegreeLabel">Wind Degree</string>
+    <string name="cloudiness">Cloudiness</string>
+    <string name="foreCastButton">Check Forecast</string>
+    <string name="fLabel"> F</string>
+    <string name="milesPerHrLabel"> miles/hr</string>
+    <string name="degreesLabel"> degrees</string>
+    <string name="percentageSymbol"> %</string>
+    <string name="weatherForecast">Weather Forecast</string>
+    <string name="maxLabel">Max:</string>
+    <string name="minLabel">Min:</string>
+</resources>
